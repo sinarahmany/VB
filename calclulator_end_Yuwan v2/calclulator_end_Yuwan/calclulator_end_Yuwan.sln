@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "calclulator_end_Yuwan", "calclulator_end_Yuwan\calclulator_end_Yuwan.vbproj", "{16E8F1D1-B5B8-4808-A3E2-F91821BCB48C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16E8F1D1-B5B8-4808-A3E2-F91821BCB48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E8F1D1-B5B8-4808-A3E2-F91821BCB48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E8F1D1-B5B8-4808-A3E2-F91821BCB48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E8F1D1-B5B8-4808-A3E2-F91821BCB48C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4713393D-C340-495A-8CB8-A9170F3EF66F}
+	EndGlobalSection
+EndGlobal

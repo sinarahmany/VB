@@ -1,0 +1,58 @@
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\bin\Debug\StudentsInfo.accdb
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.exe.config
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.exe
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.pdb
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.xml
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbprojResolveAssemblyReference.cache
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\obj\Debug\Interop.ADODB.dll
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbproj.ResolveComReference.cache
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.Form1.resources
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.Resources.resources
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbproj.GenerateResource.Cache
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.exe
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.xml
+c:\users\saygin.guven\documents\visual studio 2017\Projects\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.pdb
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbprojAssemblyReference.cache
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\obj\Debug\Interop.ADODB.dll
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbproj.ResolveComReference.cache
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.Form1.resources
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.Resources.resources
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbproj.GenerateResource.cache
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbproj.CoreCompileInputs.cache
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.exe
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.xml
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.pdb
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\bin\Debug\StudentsInfo.accdb
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.exe.config
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.exe
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.pdb
+C:\Users\saygin\source\repos\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.xml
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\bin\Debug\StudentsInfo.accdb
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.exe.config
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.exe
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.pdb
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.xml
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbprojResolveAssemblyReference.cache
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\Interop.ADODB.dll
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbproj.ResolveComReference.cache
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.Form1.resources
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.Resources.resources
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbproj.GenerateResource.Cache
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.exe
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.xml
+C:\Users\sina.rahmannejad\Downloads\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.pdb
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\bin\Debug\StudentsInfo.accdb
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.exe.config
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.exe
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.pdb
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\bin\Debug\studentManagementApp.xml
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbprojAssemblyReference.cache
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\Interop.ADODB.dll
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbproj.ResolveComReference.cache
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.Form1.resources
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.Resources.resources
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbproj.GenerateResource.cache
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.vbproj.CoreCompileInputs.cache
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.exe
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.xml
+C:\Users\Sina\Downloads\Compressed\studentManagementApp_start (1)\studentManagementApp_start (1)\studentManagementApp\studentManagementApp\obj\Debug\studentManagementApp.pdb

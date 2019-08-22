@@ -1,0 +1,24 @@
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\obj\Debug\sina.vbprojAssemblyReference.cache
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\obj\Debug\WindowsApp1.sina.resources
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\obj\Debug\sina.vbproj.GenerateResource.cache
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\obj\Debug\sina.vbproj.CoreCompileInputs.cache
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Sina\Downloads\Compressed\Simple Calculator (Visual BasicVS all versions)\VB\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\obj\Debug\sina.vbprojAssemblyReference.cache
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\obj\Debug\WindowsApp1.sina.resources
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\obj\Debug\sina.vbproj.GenerateResource.cache
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\obj\Debug\sina.vbproj.CoreCompileInputs.cache
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Sina\Downloads\VB\VB\WindowsApp1\obj\Debug\WindowsApp1.pdb
